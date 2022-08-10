@@ -6,8 +6,8 @@
 
 - `pkg upgrade`
 
-- `git clone https://github.com/DavidChinedu23/Fuck_bitulvau
+- `git clone https://github.com/DavidChinedu23/Fuck_bitulvau`
 
-- `cd Fuck_bitulvau
+- `cd Fuck_bitulvau`
 
 - `python BITUL.py`
