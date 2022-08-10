@@ -1,11 +1,13 @@
+<h1>Send me your key for approval {Free}</h1>
+
 # COMMAND
 
 - `pkg update`
 
 - `pkg upgrade`
 
-- `git clone https://github.com/bitulvau/PUBLIC_CLOONING.git`
+- `git clone https://github.com/DavidChinedu23/Fuck_bitulvau
 
-- `cd PUBLIC_CLOONING`
+- `cd Fuck_bitulvau
 
 - `python BITUL.py`
